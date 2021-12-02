@@ -1,18 +1,23 @@
 
 <div align="left">
-  <a href="https://twitter.com/sha_code">
+  <a href="https://twitter.com/sha_code" target="_blank">
     <img
       src="https://img.shields.io/twitter/follow/sha_code?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
       alt="Twitter"
     />
   </a>
-  <a href="https://www.linkedin.com/in/shannone-controu/">
+  <a href="https://www.linkedin.com/in/shannone-controu/" target="_blank">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
       alt="LinkedIn"
     />
   </a>
-
+  <a href="https://www.instagram.com/sha_code/" target="_blank">
+    <img
+         src="https://img.shields.io/badge/follow--000?style=social&logo=instagram"
+         alt="instagram"
+     />
+  </a>
   <a href="https://app.daily.dev/Sha_code" target="_blank">
     <img
       width="270"
@@ -34,5 +39,5 @@
     
 ## 💪🏼 Personnal project
 
-- Help junior developer during their transition : [Deviens Dev !](https://shacode.fr)
+- Help futur junior developer during their transition : [Sha_code - Deviens Dev !](https://shacode.fr/ebook)
 
