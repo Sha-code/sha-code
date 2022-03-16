@@ -41,3 +41,6 @@
 
 - Help futur junior developer during their transition : [Sha_code - Deviens Dev !](https://shacode.fr/ebook)
 
+## 💪🏼 Technical skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,nextjs,postgres,nodejs,aws)](https://skillicons.dev)
